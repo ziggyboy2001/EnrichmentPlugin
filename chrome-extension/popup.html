@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Enriched Data</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="tabs">
+    <button onclick="showTab('tab1')">Tab 1</button>
+    <button onclick="showTab('tab2')">Tab 2</button>
+    <button onclick="showTab('tab3')">Tab 3</button>
+  </div>
+  <div id="content">
+    <div id="tab1" class="tab-content"></div>
+    <div id="tab2" class="tab-content"></div>
+    <div id="tab3" class="tab-content"></div>
+  </div>
+  <div id="history">
+    <h3>History (last 5 contacts enriched)</h3>
+    <ul id="history-list"></ul>
+  </div>
+  <script src="popup.js"></script>
+  <script src="history.js"></script>
+</body>
+</html>
