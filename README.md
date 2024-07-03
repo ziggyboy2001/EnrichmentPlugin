@@ -58,3 +58,4 @@ This guide covers the entire process of using this Chrome extension that integra
     •	Send Data to ChatGPT: The enrich_profile function in server.py sends the formatted profile data to the OpenAI API.
     •	Receive and Process Enhanced Data: The response from ChatGPT contains suggestions for enhancing the LinkedIn profile. This data is split into sections and sent back to the Chrome extension.
     •	Display Enhanced Data: The Chrome extension receives the enriched data and displays it in a user-friendly interface with three tabs, each containing suggestions for improving different aspects of the LinkedIn profile.
+
