@@ -1,4 +1,4 @@
-# LinkedIn Data Enrichment Chrome Extension
+# AI LinkedIn Data Enrichment Chrome Extension
 
 ## Overview
 
