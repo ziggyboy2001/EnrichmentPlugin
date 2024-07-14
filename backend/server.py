@@ -3,7 +3,7 @@ from scraper import scrape_linkedin_profile
 import openai
 
 # Set your OpenAI API key here
-openai.api_key = 'YOUR_OPENAI_API_KEY'
+openai.api_key = 'sk-proj-ghd7Fwh4LU0dcuDe5tnYT3BlbkFJg9d0IlDythrcx5s0SK7t'
 
 app = Flask(__name__)
 
